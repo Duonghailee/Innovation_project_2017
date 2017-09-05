@@ -11,7 +11,7 @@ Demo app here: [http://duonghailee.github.io/Innvation_project_2017](http://duon
 
 # Technology
 Front-end: Built in HTML, CSS, vanila JS and React js framework, data visualization and dash board.
-Back-end: mySQL and PHP.
+Back-end: mySQL and PHP. Running on apache server for testing
 
 # Features
 Current functionalities: 
