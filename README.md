@@ -18,7 +18,8 @@ Current functionalities:
 
 - User dash board where most useful information could be found: course/project timeline, progress, effort,
 outcome, failure... time used on project/course, skills achievement.
-- A pomodoro clock to imrpove working/stuyding focus and efficiency.
+- A pomodoro clock to improve working/stuyding focus and efficiency.
+- A wikipedia search engine for user to quick access to the largest source of knowlege.
 - Many useful quotes that enhance user's motivation
 - Facebook/ instagram / twitter plugin to share progress, result into social network
 
