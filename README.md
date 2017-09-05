@@ -6,7 +6,7 @@ A repo of Innovation project 2017 Metropolia.
 A webapp that tracks your learning progress, as well as providing time management system, sleep tracking.
 As a result, improve users' learning experience, health, creativity, ...
 
-# Demo
+# Demo (currently not available)
 Demo app here: [http://duonghailee.github.io/Innvation_project_2017](http://duonghailee.github.io/Innovation_project_2017) 
 
 # Technology
