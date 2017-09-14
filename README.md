@@ -2,7 +2,7 @@
 A repo of Innovation project 2017 Metropolia.
 
 
-# Objectie
+# Objective
 A webapp that tracks your learning progress, as well as providing time management system, sleep tracking.
 As a result, improve users' learning experience, health, creativity, ...
 
@@ -23,6 +23,9 @@ outcome, failure... time used on project/course, skills achievement.
 - Many useful quotes that enhance user's motivation
 - Facebook/ instagram / twitter plugin to share progress, result into social network
 
+- Interactive reminding/entrying of details or other small changes
+
 Future wishes:
 - a learning community build where users form a group of same course/ subject learning and share their learning experience, progress, hints, useful tricks....
 - Port to another platform like iOS/Android.
+- Voice command interactivity
