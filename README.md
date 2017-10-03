@@ -1,7 +1,6 @@
 # Innovation_project_2017
 A repo of Innovation project 2017 Metropolia.
 
-
 # Objective
 A webapp that tracks your learning progress, as well as providing time management system, sleep tracking.
 As a result, improve users' learning experience, health, creativity, ...
@@ -10,7 +9,7 @@ As a result, improve users' learning experience, health, creativity, ...
 Demo app here: [http://duonghailee.github.io/Innvation_project_2017](http://duonghailee.github.io/Innovation_project_2017) 
 
 # Technology
-Front-end: Built in HTML, CSS, vanila JS and React js framework, data visualization and dash board.
+Front-end: Built in HTML, CSS, vanila JS and React js Library, data visualization and dash board.
 Back-end: mySQL and PHP. Running on apache server for testing
 
 # Features
@@ -22,7 +21,6 @@ outcome, failure... time used on project/course, skills achievement.
 - A wikipedia search engine for user to quick access to the largest source of knowlege.
 - Many useful quotes that enhance user's motivation
 - Facebook/ instagram / twitter plugin to share progress, result into social network
-
 - Interactive reminding/entrying of details or other small changes
 
 Future wishes:
