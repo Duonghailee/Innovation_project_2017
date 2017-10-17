@@ -11,10 +11,18 @@
     "url": "git+https://github.com/Duonghailee/Innovation_project_2017.git"
   },
   "keywords": [],
-  "author": ["Antti","hailee"],
+  "author": [
+    "Antti",
+    "hailee"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Duonghailee/Innovation_project_2017/issues"
   },
-  "homepage": "https://github.com/Duonghailee/Innovation_project_2017#readme"
+  "homepage": "https://github.com/Duonghailee/Innovation_project_2017#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1"
+  }
 }
